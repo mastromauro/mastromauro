@@ -10,7 +10,7 @@
 - Computer Engineering undergraduate [@UniFacens](https://facens.br/)
 - Systems development technician [@ETEC Fernando Prestes](https://etecfernandoprestes.cps.sp.gov.br/).
 - Former software engineering intern/academic researcher [@Finatec](https://www.finatec.org.br/)
-- Former Python development intern [@UniFacens](https://facens.br/) in partnership with [Huawei Brasil](https://www.huawei.com/br/).
+- Engineering Trainee [@ADComp](https://ad-composites.com/).
 
 ## CONTACT INFO
 
